@@ -23,8 +23,7 @@ function divideNum(num1,num2) {
 let firstNumber;
 let secondNumber;
 let operator;
-let operate = `${firstNumber} ${operator} ${secondNumber}`;
-
+let operate;
 
 
 
