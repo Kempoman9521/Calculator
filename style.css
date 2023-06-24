@@ -26,4 +26,15 @@ body{
     flex: 6;
 }
 
+.numbers{
+    border-style: solid;
+    border-color: black;
+}
+
+.operators{
+    border-style: solid;
+    border-color: black;
+}
+
+
 
