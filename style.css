@@ -24,6 +24,7 @@ body{
     border-style: solid;
     border-color: black;
     flex: 6;
+    display: flex;
 }
 
 .numbers{
