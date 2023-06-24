@@ -13,4 +13,9 @@ body{
    display: flex;
 }
 
+.display{
+    border-style: solid;
+    border-color: black;
+}
+
 
