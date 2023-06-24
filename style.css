@@ -20,7 +20,7 @@ body{
     flex: 1;
 }
 
-.button-numbers{
+.button-continer{
     border-style: solid;
     border-color: black;
     flex: 6;
