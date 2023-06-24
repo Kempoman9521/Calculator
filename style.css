@@ -17,11 +17,13 @@ body{
 .display{
     border-style: solid;
     border-color: black;
+    flex: 1;
 }
 
 .button-numbers{
     border-style: solid;
     border-color: black;
+    flex: 6;
 }
 
 
