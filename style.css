@@ -30,11 +30,13 @@ body{
 .numbers{
     border-style: solid;
     border-color: black;
+    flex:1
 }
 
 .operators{
     border-style: solid;
     border-color: black;
+    flex: 4;
 }
 
 
