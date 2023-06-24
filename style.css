@@ -1,4 +1,7 @@
 #calculator-container{
    border-style: solid;
    border-color: black;
+   width: 300px;
+   height: 300px;
 }
+
