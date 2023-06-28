@@ -30,7 +30,7 @@ body{
 .operators{
     border-style: solid;
     border-color: black;
-    flex:1
+    flex:1;
 }
 
 .numbers{
@@ -38,6 +38,7 @@ body{
     border-color: black;
     flex: 4;
 }
+
 
 
 
