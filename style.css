@@ -27,13 +27,13 @@ body{
     display: flex;
 }
 
-.numbers{
+.operators{
     border-style: solid;
     border-color: black;
     flex:1
 }
 
-.operators{
+.numbers{
     border-style: solid;
     border-color: black;
     flex: 4;
