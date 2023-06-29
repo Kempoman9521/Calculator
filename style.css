@@ -41,6 +41,11 @@ body{
     flex-direction: column;
 }
 
+.number-row{
+    display: flex;
+    flex: 1;
+}
+
 
 
 
