@@ -23,6 +23,9 @@ function divideNum(num1,num2) {
 let firstNumber;
 let secondNumber;
 let operator;
+let displayValue;
+
+
 function operate(num1,num2,operator) {
     if(operator === "+") {
         return addNum(num1,num2);
@@ -34,4 +37,7 @@ function operate(num1,num2,operator) {
         return multiplyNum(num1,num2);
     }
 }
+
+const numberRow = document.querySelector(".number-row");
+
 
