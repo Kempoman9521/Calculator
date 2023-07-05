@@ -35,7 +35,3 @@ function operate(num1,num2,operator) {
     }
 }
 
-console.log(operate(10,5,"-"));
-
-
-
